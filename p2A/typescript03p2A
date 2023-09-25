@@ -1,0 +1,8 @@
+Script started on 2023-09-21 14:59:34-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="101" LINES="61"]
+[?2004h[richardf@vm-instunix-11] (1)$ gcc check_board.c -Wall -m32 -std=gnu99 -o check_board
+[?2004l[?2004h[richardf@vm-instunix-11] (2)$ ./check_board board.txt[K[K[K[K1.txt
+[?2004lvalid
+[?2004h[richardf@vm-instunix-11] (3)$ exit
+[?2004lexit
+
+Script done on 2023-09-21 15:00:02-05:00 [COMMAND_EXIT_CODE="0"]
